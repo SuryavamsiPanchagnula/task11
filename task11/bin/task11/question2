@@ -1,0 +1,14 @@
+
+Errors - - 
+The problem which cannot be resolved within the program
+It is an illegal operation performed by the user
+No error is thrown for input mismatch, and no error will be identified
+Error occurs after the excecution of the program
+All errors are unchecked
+
+Exception - - 
+The problem that can be resolved within the program
+It is an legal operation performed by the user
+An exception is an thrown for input mismatch which can be handled
+Exception occurs during the execution of the program
+Exceptions are both checked and unchecked
