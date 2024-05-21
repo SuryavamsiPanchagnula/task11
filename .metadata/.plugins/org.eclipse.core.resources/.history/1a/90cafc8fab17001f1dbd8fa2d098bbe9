@@ -1,0 +1,44 @@
+The four types of access modifiers are:
+Default – No keyword required
+Private
+Protected
+Public
+
+Default: When no access modifier is specified for a class, method, or data member .
+ It is said to be having the default access modifier by default
+
+Private: 
+
+The private access modifier is specified using the keyword private. 
+The methods or data members declared as private are accessible only within the class in which they are declared.
+
+Protected:
+
+The protected access modifier is specified using the keyword protected.
+
+The methods or data members declared as protected are accessible within the same package or subclasses in different packages.
+
+Public:
+
+The public access modifier is specified using the keyword public. 
+
+Accordingly all the keywords are used in the code for the indication
+
+Significance of using class, variable and methods
+
+1.Encapsulation - - It access metods to specify visibility of methods
+
+2.Polymorphism - - Here subclasses will be access to override methods
+
+3.Code Readability - - It will help the development team to understand the code, and shows the visibility and access of the methods
+
+4.Information hiding - - It helps variables to prevent from unauthorized access
+
+5.Interface deisgn - - It will help to understand the interfaces of the design
+
+6.Access control - - It will define methods, what should accessed and what should not be accessed and who can access
+
+
+
+
+
