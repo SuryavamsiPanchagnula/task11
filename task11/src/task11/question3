@@ -1,0 +1,13 @@
+checked exceptions - -
+This are caught at compile time 
+These are significant errors which can be handled , so that execution will be smooth
+This occurs during input mismatch or conditions not matching the program
+Exceptions are anticipated
+These include file exception
+
+unchecked exceptions - -
+This are not caught at compile time
+Execution will not be smooth
+This occurs during the programming errors
+Exceptions will occur but are not anticipated by the user
+These include arithmetic, array out of index exceptions
