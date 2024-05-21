@@ -3,7 +3,7 @@ Errors - -
 The problem which cannot be resolved within the program
 It is an illegal operation performed by the user
 No error is thrown for input mismatch, and no error will be identified
-Error occurs after the excecution of the program
+Error occurs after the execution of the program
 All errors are unchecked
 
 Exception - - 
